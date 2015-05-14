@@ -1,0 +1,19 @@
+{
+  "name": "queen-of-blackjack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChelseaBurns/queen-of-blackjack.git"
+  },
+  "author": "Chelsea Burns <co.designux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChelseaBurns/queen-of-blackjack/issues"
+  },
+  "homepage": "https://github.com/ChelseaBurns/queen-of-blackjack#readme"
+}
