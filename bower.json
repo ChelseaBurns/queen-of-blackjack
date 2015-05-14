@@ -1,6 +1,6 @@
 {
   "name": "queen-of-blackjack",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/ChelseaBurns/queen-of-blackjack",
   "authors": [
     "ChelseaBurns <co.designux@gmail.com>"
@@ -18,5 +18,9 @@
     "jquery": "~2.1.4",
     "lodash": "~3.8.0",
     "angular": "~1.3.15"
+  },
+  "devDependencies": {
+    "node-sass": "~3.1.0",
+    "jade": "~1.9.2"
   }
 }
